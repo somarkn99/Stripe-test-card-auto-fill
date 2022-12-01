@@ -1,0 +1,11 @@
+{
+    "name": "Testing Credit Card Extension",
+    "version": "1.0.0",
+    "description": "latest covid data of UK",
+    "manifest_version": 3,
+    "author": "Somar Kesen",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Latest Covid Report"
+    }
+}

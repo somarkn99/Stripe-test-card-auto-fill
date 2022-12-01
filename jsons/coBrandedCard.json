@@ -1,0 +1,12 @@
+[
+    {
+        "brand": "Cartes Bancaires/Visa",
+        "number": "4000002500001001",
+        "CVC": "3"
+    },
+    {
+        "brand": "Cartes Bancaires/Mastercard",
+        "number": "5555552500001001",
+        "CVC": "3"
+    }
+]

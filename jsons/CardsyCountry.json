@@ -1,0 +1,98 @@
+[
+    {
+        "brand": "Visa",
+        "country": "USA",
+        "number": "4000002500001001",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "Brazil",
+        "number": "4000000760000002",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "Canada",
+        "number": "4000001240000000",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "Mexico",
+        "number": "4000004840008001",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "UAE",
+        "number": "4000007840000001",
+        "CVC": "3"
+    },
+    {
+        "brand": "Mastercard",
+        "country": "UAE",
+        "number": "5200007840000022",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "Austria",
+        "number": "4000000400000008",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "Belgium",
+        "number": "4000000560000004",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "Belarus",
+        "number": "4000001120000005",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "Croatia",
+        "number": "4000001910000009",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "Cyprus",
+        "number": "4000001960000008",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "France",
+        "number": "4000002500000003",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "Germany",
+        "number": "4000002760000016",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa",
+        "country": "UK",
+        "number": "4000008260000000",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa (debit)",
+        "country": "UK",
+        "number": "4000058260000005",
+        "CVC": "3"
+    },
+    {
+        "brand": "Mastercard",
+        "country": "UK",
+        "number": "5555558265554449",
+        "CVC": "3"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "brand": "Visa",
+        "number": "4242424242424242",
+        "CVC": "3"
+    },
+    {
+        "brand": "Visa (debit)",
+        "number": "4000056655665556",
+        "CVC": "3"
+    },
+    {
+        "brand": "Mastercard",
+        "number": "5555555555554444",
+        "CVC": "3"
+    },
+    {
+        "brand": "Mastercard (2-series)",
+        "number": "2223003122003222",
+        "CVC": "3"
+    },
+    {
+        "brand": "Mastercard (debit)",
+        "number": "5200828282828210",
+        "CVC": "3"
+    },
+    {
+        "brand": "American Express",
+        "number": "378282246310005",
+        "CVC": "4"
+    },
+    {
+        "brand": "American Express",
+        "number": "371449635398431",
+        "CVC": "4"
+    },
+
+    {
+        "brand": "Discover",
+        "number": "6011111111111117",
+        "CVC": "3"
+    },
+    {
+        "brand": "Discover",
+        "number": "6011000990139424",
+        "CVC": "3"
+    },
+    {
+        "brand": "Discover (debit)",
+        "number": "6011981111111113",
+        "CVC": "3"
+    },
+    {
+        "brand": "Diners Club",
+        "number": "3056930009020004",
+        "CVC": "3"
+    },
+    {
+        "brand": "Diners Club (14-digit card)",
+        "number": "36227206271667",
+        "CVC": "3"
+    },
+    {
+        "brand": "JCB",
+        "number": "3566002020360505",
+        "CVC": "3"
+    },
+    {
+        "brand": "UnionPay",
+        "number": "6200000000000005",
+        "CVC": "3"
+    }
+]
